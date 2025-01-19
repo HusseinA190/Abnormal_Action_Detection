@@ -1,2 +1,3 @@
-# Abnormal_Action_Detection
-An AI system for real-time detection of violence, fire, smoke, and weapons. It analyzes live video feeds using advanced models to identify threats and send alerts, ensuring safety and security with accurate, low-latency detection and a user-friendly dashboard.
+version https://git-lfs.github.com/spec/v1
+oid sha256:675e8a8f6e4b1929ff30e3eab8b4b20c0c78189d6da866e6f77855dfeaf39a3b
+size 289
